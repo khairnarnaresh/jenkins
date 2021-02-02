@@ -1,1 +1,1 @@
-echo " SSH Executed toll 1 w"
+echo " SSH Executed tol 1 w"
